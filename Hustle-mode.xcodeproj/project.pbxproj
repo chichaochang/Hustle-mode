@@ -12,6 +12,7 @@
 		223E0707225FA857006A8E4F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 223E0705225FA857006A8E4F /* Main.storyboard */; };
 		223E0709225FA859006A8E4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 223E0708225FA859006A8E4F /* Assets.xcassets */; };
 		223E070C225FA859006A8E4F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 223E070A225FA859006A8E4F /* LaunchScreen.storyboard */; };
+		223E0738225FA922006A8E4F /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 223E0737225FA922006A8E4F /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		223E0708225FA859006A8E4F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		223E070B225FA859006A8E4F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		223E070D225FA859006A8E4F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		223E0737225FA922006A8E4F /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		223E0700225FA857006A8E4F /* Hustle-mode */ = {
 			isa = PBXGroup;
 			children = (
+				223E0737225FA922006A8E4F /* hustle-on.wav */,
 				223E0701225FA857006A8E4F /* AppDelegate.swift */,
 				223E0703225FA857006A8E4F /* ViewController.swift */,
 				223E0705225FA857006A8E4F /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				223E0738225FA922006A8E4F /* hustle-on.wav in Resources */,
 				223E070C225FA859006A8E4F /* LaunchScreen.storyboard in Resources */,
 				223E0709225FA859006A8E4F /* Assets.xcassets in Resources */,
 				223E0707225FA857006A8E4F /* Main.storyboard in Resources */,
